@@ -8,7 +8,7 @@
 ```bash
 git clone https://github.com/heinu123/proxy-bot.git && cd proxy-bot
 pip3 install -r requirements.txt
-python3 mian.py
+python3 main.py
 ```
 
 ## 命令列表
